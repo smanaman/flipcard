@@ -1,0 +1,108 @@
+
+.class1{
+  text-align: right;
+  font-size: 20px;
+  margin-top: 100px;
+  margin-right: 200px;
+}
+
+
+.nav{
+    /* display: inline-block; */
+      font-size: 30px;
+   word-spacing: 30px; 
+  }
+  a{
+    text-decoration: none;
+    color: black;
+  }
+  .p{
+    word-spacing: 30px;
+      display: inline-block;
+  }
+
+  h2{
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 100px;
+    color: rgb(255, 0, 0);
+  }
+  .imgdiv{
+    
+    display: inline-block;
+    width: 70px;
+  height: px;
+  /* border: 1px solid black; */
+  }
+.div2 img{
+    border: 2px dotted red;
+    width: 600x;
+    height: 400px;
+    margin: 10px;
+    margin-bottom: 100px;
+}
+.div2{
+    margin-top: 100px;
+}
+.div3{
+/* border: 1px solid black; */
+text-align: center;
+font-size: 40px;
+}
+
+               /* pic1 */
+.mainaman{
+  margin-bottom: 200px;
+}
+
+.amanimg{
+  float: left;
+  /* margin-bottom: 100px; */
+  
+  height: 300px; 
+}
+.amanp{
+  font-size: 30px;
+  margin-bottom: 100px;
+  color: rgb(112, 112, 209);
+}
+
+                 /* pic2 */
+.sonmainimg{
+  float: right;
+ 
+
+}
+.sonp{
+  font-size: 30px;
+  color: rgb(112, 112, 209);
+}
+.sonmain{
+  margin-bottom: 200px;
+}
+
+            /* pic3 */
+.sp{
+  font-size: 30px;
+  color: rgb(112, 112, 209);
+}
+.smainimg{
+  float: left;
+}
+.smain{
+  margin-bottom: 200px;
+}
+
+
+                /* pic4 */
+.Ap{
+  font-size: 30px;
+  color: rgb(112, 112, 209);
+}
+.Aimg{
+  float: right;
+}
+.Amain{
+  margin-bottom: 200px;
+}
